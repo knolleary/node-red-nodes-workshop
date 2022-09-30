@@ -6,15 +6,13 @@
 
 This workshop takes you through how to create Nodes for Node-RED - the low-code programming tool for event driven applications.
 
-Shortlink for this workshop: <TBD>
+Shortlink for this workshop: `<TBD>`
 
 ### Prerequisites
 
 To complete this workshop, you will need:
 
  - node.js 14.x or later
- - a [GitHub](https://github.com) account (the same result can be achieved
-    using GitLab, however the instructions included only cover GitHub)
 
 As part of the workshop you will be asked to install:
 
@@ -22,7 +20,7 @@ As part of the workshop you will be asked to install:
 
 ### Slides
 
-The slides for this workshop are available here: <TBD>
+The slides for this workshop are available here: `<TBD>`
 
 ***
 
