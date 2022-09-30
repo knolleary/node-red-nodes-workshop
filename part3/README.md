@@ -1,5 +1,5 @@
 *Quick links :*
-[Home](/README.md) - [**Part 1**](../part1/README.md) - [Part 2](../part2/README.md) - [Part 3](../part3/README.md) - [Part 4](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
+[Home](/README.md) - [Part 1](../part1/README.md) - [Part 2](../part2/README.md) - [**Part 3**](../part3/README.md) - [Part 4](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
 ***
 
 # Part 3: Adding properties to the node
@@ -92,7 +92,7 @@ Note the icons available to use can be selected from [FontAwesome 4.7](https://f
    looks correct and that you can set values, deploy changes and see those
    changes get saved
 
-# 3.2 - Updating the runtime behaviour
+## 3.2 - Updating the runtime behaviour
 
 Being able to set the property in the editor is only useful once the runtime
 knows what to do with it in the JavaScript file.
@@ -143,4 +143,4 @@ we'll look at how to do that.
 
 ***
 *Quick links :*
-[Home](/README.md) - [**Part 1**](../part1/README.md) - [Part 2](../part2/README.md) - [Part 3](../part3/README.md) - [Part 4](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
+[Home](/README.md) - [Part 1](../part1/README.md) - [Part 2](../part2/README.md) - [**Part 3**](../part3/README.md) - [Part 4](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)

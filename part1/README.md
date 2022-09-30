@@ -72,7 +72,7 @@ The Node-RED documentation has a pair of tutorials to help get you started:
  - [Your first flow](https://nodered.org/docs/tutorials/first-flow)
  - [Your second flow](https://nodered.org/docs/tutorials/second-flow)
 
-## 1.3 - Setup a development environment
+## 1.3 - Setup a development environment
 
 When Node-RED starts, it scans a number of locations searching for modules
 that contain nodes.

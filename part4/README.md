@@ -1,5 +1,5 @@
 *Quick links :*
-[Home](/README.md) - [**Part 1**](../part1/README.md) - [Part 2](../part2/README.md) - [Part 3](../part3/README.md) - [Part 4](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
+[Home](/README.md) - [Part 1](../part1/README.md) - [Part 2](../part2/README.md) - [Part 3](../part3/README.md) - [**Part 4**](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
 ***
 
 # Part 4: Writing unit tests for your node
@@ -105,7 +105,7 @@ using here.
     1 passing (93ms)
     ```
 
-# 4.3 - Add some more useful tests
+## 4.3 - Add some more useful tests
 
 The current test just validates the node loads without error. Now we should add
 some tests for the functionality the node provides.
@@ -175,4 +175,4 @@ to continue the adventure.
 
 ***
 *Quick links :*
-[Home](/README.md) - [**Part 1**](../part1/README.md) - [Part 2](../part2/README.md) - [Part 3](../part3/README.md) - [Part 4](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
+[Home](/README.md) - [Part 1](../part1/README.md) - [Part 2](../part2/README.md) - [Part 3](../part3/README.md) - [**Part 4**](../part4/README.md) - [Part 5](../part5/README.md) - [Part 6](../part6/README.md)
