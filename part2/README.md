@@ -187,7 +187,7 @@ In this section of the workshop you have:
 ## Next Steps
 
 With the core structure of the node in place, the next task is to add some configurable
-options to the node. This is what we'll do in [Part 3](../part2/README.md).
+options to the node. This is what we'll do in [Part 3](../part3/README.md).
 
 
 ***

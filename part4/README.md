@@ -170,7 +170,7 @@ In this section of the workshop you have:
 
 At this point, we've covered a lot of the core concepts and mechanics for creating
 a node. The next task is to show how a node can be used to wrap an existing npm
-module, building on what you've already done. Head to [Part 5](../part4/README.md)
+module, building on what you've already done. Head to [Part 5](../part5/README.md)
 to continue the adventure.
 
 ***
