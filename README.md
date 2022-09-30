@@ -49,6 +49,10 @@ The workshop is split into the following parts:
 
   *Add more functionality to the node using an existing npm module*
 
+- [**Part 6**: Next steps](part6/README.md)
+
+  *Some suggestions on where to take your node next*
+
 ***
 
 *Quick links :*
