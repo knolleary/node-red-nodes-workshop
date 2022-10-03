@@ -121,7 +121,7 @@ You can now run Node-RED with `nodemon` monitoring your `workshop-node` director
 1. If Node-RED is already running from step 1.1, stop it now.
 2. Then, from within the `workshop-node` directory, run:
 
-        npx nodemon -w . -e 'js,html,json' node-red
+        npx nodemon -w . -e 'js,html,json' --exec node-red
 
 
 Note this assumes `node-red` is on your path. If it isn't, you'll need to specify the
