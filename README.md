@@ -6,7 +6,7 @@
 
 This workshop takes you through how to create Nodes for Node-RED - the low-code programming tool for event driven applications.
 
-Shortlink for this workshop: `<TBD>`
+Shortlink for this workshop: https://bit.ly/nr-node-workshop
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ As part of the workshop you will be asked to install:
 
 ### Slides
 
-The slides for this workshop are available here: `<TBD>`
+The slides for this workshop are available here: https://speakerdeck.com/knolleary/building-node-red-nodes-for-fun-or-profit
 
 ***
 
