@@ -169,11 +169,11 @@ Create a flow in the editor using an Inject node, your new node and a Debug node
 [Inject] --> [Workshop Node] --> [Debug]
 ```
 
-Configure the Inject node to send a string of "HELLO" - or anything you want. Just
-make sure it isn't all lower-case already as that's what your new node will be doing.
+Configure the Inject node to send a string of "HELLO" - or anything you want - in the `payload` property.
+Just make sure it isn't all lower-case already as that's what your new node will be doing.
 
-Deploy the flow, click the Inject node and check the Debug side to see the result - you
-should see the payload has been converted to lower case letters.
+Deploy the flow, click the button attached to the Inject node to trigger it and check the Debug sidebar
+to see the result - you should see the payload has been converted to lower case letters.
 
 
 ## Summary
