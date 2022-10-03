@@ -148,7 +148,7 @@ pick which image to use.
 
     ```javascript
     this.mode = config.mode || 'lc'
-    this.image = config.iage || 'cow'
+    this.image = config.image || 'cow'
     ```
 
     Update the input event handler:
